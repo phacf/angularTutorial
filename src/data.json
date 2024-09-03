@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+      "id": "75ddc9bc0b4d3c6e7fc4beea",
+      "name": "Carter, Greenholt and Macejkovic",
+      "city": "West Wilfredfort",
+      "state": "California",
+      "photo": "https://picsum.photos/seed/CbchE12/640/480",
+      "availableUnits": 6,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "f4b74edd7f2fd1acaec7cedb",
+      "name": "Rath - Cummings",
+      "city": "Filomenastead",
+      "state": "Utah",
+      "photo": "https://picsum.photos/seed/KnTO3Wrn/640/480",
+      "availableUnits": 9,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "e07fcdffac65729341961b7a",
+      "name": "Mayert - Adams",
+      "city": "West David",
+      "state": "New York",
+      "photo": "https://picsum.photos/seed/5yl6z/640/480",
+      "availableUnits": 7,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "dadaccd25b3fe8d5c3f7bdea",
+      "name": "Jones LLC",
+      "city": "Newport News",
+      "state": "Hawaii",
+      "photo": "https://picsum.photos/seed/x5X7E/640/480",
+      "availableUnits": 2,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "3a59c32e5e2bc6caa1dbcde1",
+      "name": "Hayes, Kunde and Gottlieb",
+      "city": "Heathcotehaven",
+      "state": "Kentucky",
+      "photo": "https://picsum.photos/seed/TPOzIzU/640/480",
+      "availableUnits": 6,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "4ae3fc9dc3386af95df49905",
+      "name": "Purdy Group",
+      "city": "New Tedhaven",
+      "state": "Iowa",
+      "photo": "https://picsum.photos/seed/dorCRoo/640/480",
+      "availableUnits": 2,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "4ced70109dd04a5e8c9c1b13",
+      "name": "Koss, Sanford and McGlynn",
+      "city": "Lake Kolbycester",
+      "state": "Pennsylvania",
+      "photo": "https://picsum.photos/seed/ymcM3EA/640/480",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "1adceadef386071df2048e2e",
+      "name": "Oberbrunner - Lowe",
+      "city": "Waelchitown",
+      "state": "California",
+      "photo": "https://picsum.photos/seed/RjSBRYKEwv/640/480",
+      "availableUnits": 5,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": "e2fe4e0f501db98f321c60d2",
+      "name": "Hintz Inc",
+      "city": "South Gudrunport",
+      "state": "New York",
+      "photo": "https://picsum.photos/seed/BpCIHFwEA/640/480",
+      "availableUnits": 3,
+      "wifi": true,
+      "laundry": false
+    },
+    {
+      "id": "eebd423d192a02ea4fdd1a0f",
+      "name": "Zemlak, McLaughlin and Bernhard",
+      "city": "Cathedral City",
+      "state": "Virginia",
+      "photo": "https://picsum.photos/seed/fStrtxWoa/640/480",
+      "availableUnits": 9,
+      "wifi": false,
+      "laundry": true
+    }
+  ]
+}

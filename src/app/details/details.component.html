@@ -1,0 +1,29 @@
+<article>
+  <img class="listing-photo" [src]="housingLocation?.photo" alt="foto" />
+  <section class="listing-description">
+    <h2 class="listing-heading">{{ housingLocation?.name }}</h2>
+    <p class="listing-location">{{ housingLocation?.city }}, {{ housingLocation?.state }}</p>
+  </section>
+  <section class="listinng-features">
+    <h2 class="section-heading">About this housing location</h2>
+    <ul>
+      <li>Units avaliable: {{ housingLocation?.avaliableUnits }}</li>
+      <li>wifi: {{ housingLocation?.wifi }}</li>
+      <li>loundry: {{ housingLocation?.laudry }}</li>
+    </ul>
+  </section>
+  <section class="listing-apply">
+    <h2 class="section-heading">Apply to live here</h2>
+    <form [formGroup]="applyForm" (ngSubmit)="submitApplication()">
+      <label for="first-name">First name</label>
+      <input type="text" id="first-name" formControlName="firstName" />
+
+      <label for="last-name">Last name</label>
+      <input type="text" id="last-name" formControlName="lastName" />
+
+      <label for="email">E-mail</label>
+      <input type="text" id="email" formControlName="email" />
+      <button type="submit">Aply now</button>
+    </form>
+  </section>
+</article>
